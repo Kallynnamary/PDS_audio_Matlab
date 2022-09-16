@@ -14,7 +14,7 @@ Extração de características:
 - Pitch
 - Frequencia fundamental
 
-Rede neural/Classificador: 
+Rede neural/Classificador (Machine Learning): 
 - K-means
 - Codebook
 - Rede neural  Multi Layer Perceptron (MLP)
