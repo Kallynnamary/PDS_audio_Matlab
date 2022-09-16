@@ -1,6 +1,6 @@
 # Matlab_PDS e decomposicao tensorial
 
-Repositório de códigos em Matlab para Processamento Digital de Áudio e Decomposição Tensorial (Algebra Multilinear)
+Repositório de códigos em Matlab para Processamento Digital de Sinais (extração, mineração e classificação de dados) e Decomposição Tensorial (Algebra Multilinear)
 
 Os códigos aqui apresentados são divididos em duas classe. A primeira, apresenta os códigos utilizados para extração de características e classificação de sinais de audio. A segunda classe são exemplos de aplicações para decomposições tensoriais em Algebra Multilinear.
 
